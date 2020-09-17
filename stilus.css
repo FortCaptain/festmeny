@@ -20,3 +20,10 @@
 .right{
     float: right;
 }
+.black{
+    background-color: black;
+}
+#first-divider{
+    height: 100%;
+    width: 3%;
+}
