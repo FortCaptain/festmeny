@@ -27,3 +27,24 @@
     height: 100%;
     width: 3%;
 }
+#first-column{
+	width:22%;
+	height:100%;
+	background-color: pink;
+}
+#first-medium-rectangle{
+	height:48.5%;
+	width: 100%;
+	background-color: green;
+}
+#second-divider{
+	width: 100%;
+	height: 3%;
+	float: center;
+	
+}
+#second-medium-rectangle{
+	height:48.5%;
+	width: 100%;
+	background-color: white;
+}
